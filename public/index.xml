@@ -2,18 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Site</title>
-        <link>http://localhost:1313/MyFirstBlog/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sat, 16 Mar 2024 00:04:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/MyFirstBlog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Mar 2024 00:04:42 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Post</title>
-        <link>http://localhost:1313/MyFirstBlog/posts/my-first-post/</link>
+        <link>http://localhost:1313/my-first-post/</link>
         <pubDate>Sat, 16 Mar 2024 00:04:42 +0800</pubDate>
         
-        <guid>http://localhost:1313/MyFirstBlog/posts/my-first-post/</guid>
-        <description></description>
+        <guid>http://localhost:1313/my-first-post/</guid>
+        <description>&lt;p&gt;#test
+This is only a test.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>My First Post</title>
+        <link>http://localhost:1313/posts/my-first-post/</link>
+        <pubDate>Sat, 16 Mar 2024 00:04:42 +0800</pubDate>
+        
+        <guid>http://localhost:1313/posts/my-first-post/</guid>
+        <description>&lt;p&gt;#test
+This is only a test.&lt;/p&gt;
+</description>
         </item>
         
     </channel>
