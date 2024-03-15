@@ -1,4 +1,4 @@
-baseurl: "https://iamzwxyy.github.io/MyFirstBlog/"
+baseurl: "https://iamzwxyy.github.io"
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
