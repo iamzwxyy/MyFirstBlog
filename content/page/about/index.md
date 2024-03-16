@@ -6,7 +6,7 @@ menu:
         params:
             icon: user
 
-comments: false
+comments: true
 ---
 
 This is a test page for i18n support.
