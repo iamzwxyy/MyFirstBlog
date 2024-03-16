@@ -20,12 +20,12 @@ languages:
         weight: 1
         params:
             description: 演示说明   
-    en:
-        languageName: English
-        title: William's Blog
-        weight: 2
-        params:
-            description: Example description
+    # en:
+    #     languageName: English
+    #     title: William's Blog
+    #     weight: 2
+    #     params:
+    #         description: Example description
 
 services:
     # Change it to your Disqus shortname before using
