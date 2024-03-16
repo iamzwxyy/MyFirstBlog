@@ -9,4 +9,6 @@ menu:
 comments: true
 ---
 
-This is a test page for i18n support.
+Waiting for editing...
+
+But you can leave your footprint here via the comments below!
