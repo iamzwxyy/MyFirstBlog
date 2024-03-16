@@ -10,30 +10,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://iamzwxyy.github.io/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://iamzwxyy.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://iamzwxyy.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://iamzwxyy.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://iamzwxyy.github.io/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://iamzwxyy.github.io/en/"
                 />
   </url><url>
     <loc>https://iamzwxyy.github.io/en/tags/</loc>
@@ -44,13 +22,20 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://iamzwxyy.github.io/ar/tags/"
+                hreflang="en"
+                href="https://iamzwxyy.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://iamzwxyy.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://iamzwxyy.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iamzwxyy.github.io/en/tags/"
+                href="https://iamzwxyy.github.io/en/"
                 />
   </url>
 </urlset>
