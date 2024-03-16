@@ -55,8 +55,8 @@ params:
         lastUpdated: 2006-01-02 15:04 CST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 😭
+        subtitle: Welcome to William's Blog.
         avatar:
             enabled: true
             local: true
