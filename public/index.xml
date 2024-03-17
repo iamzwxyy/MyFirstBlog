@@ -7,91 +7,127 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>William Tse</copyright>
-        <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Some words learned from cs61b</title>
+        <link>http://localhost:1313/p/somewordslearnedfromcs61b/</link>
+        <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/somewordslearnedfromcs61b/</guid>
+        <description>&lt;img src="https://sp21.datastructur.es/assets/img/favicon.ico" alt="Featured image of post Some words learned from cs61b" /&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;omit 省略
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;analogy 类比
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;scheme 计划，方案，体系
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
         <title>线性代数练习册-第一章</title>
         <link>http://localhost:1313/p/study-xd/</link>
         <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/p/study-xd/</guid>
         <description>&lt;h1 id=&#34;线性代数练习册-第一章&#34;&gt;线性代数练习册-第一章&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_00.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_00.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1098808_c02789a2860745d26d932ac55745658e.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1098808_b63bfaf5d2cc1ebafdc8047669e6701b.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_01.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_01.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_01.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_817140_ca900c2a9bc7efdc7c9616311459e0e4.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_817140_9b0e6fe0200be0d4e0e491bd1fdb709e.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_01.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_02.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_02.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1073894_f648ca4f6593dada6f750ec0916ce6d4.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1073894_6c4c13464c768e8c9dd3bc4dd0757777.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_02.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_03.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_03.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_752008_bc24b87314dac47145a27d9e2e07e996.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_752008_20f59fb1960f23e715766ed4183bad6f.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_03.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_04.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_04.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1218823_7ba2a6a0a10af0014fcf4e39679cfbca.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1218823_19a19f6730193f52cceda2df5d562f75.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_04.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_05.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_05.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1247746_dca5d3c15ca53931a35ba3a7159fdb7b.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1247746_9660cd86a7c08f5c212a797f82cc139d.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_05.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_06.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_06.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1082398_4ded8d209f3a1cd56407efa1010237e4.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_1082398_7870de2249bd3bf51c5e77141ddafa25.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_06.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:%5cUsers%5cWilliam%20Tse%5cMyFirstBlog%5ccontent%5cpost%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c-%e7%ac%ac%e4%b8%80%e7%ab%a0%5c%e7%ba%bf%e6%80%a7%e4%bb%a3%e6%95%b0%e7%bb%83%e4%b9%a0%e5%86%8c%ef%bc%88%e7%ac%ac%e4%b8%89%e7%89%88%ef%bc%89%e7%ac%ac%e4%b8%80%e7%ab%a0%e5%8f%82%e8%80%83%e7%ad%94%e6%a1%88_07.png&#34;
-	
-	
-	
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/study-xd/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%BB%83%E4%B9%A0%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88_07.png&#34;
+	width=&#34;4961&#34;
+	height=&#34;7016&#34;
+	srcset=&#34;http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_578277_5eebeeaea3a5c857ca71113821ee4e4c.png 480w, http://localhost:1313/p/study-xd/_hubd2f73a8b08766ffc6f562bae1dc62ea_578277_5f6e48ad3f619fb335fda6910d6596ed.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;线性代数练习册（第三版）第一章参考答案_07.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
 	
 &gt;&lt;/p&gt;
 </description>
@@ -106,10 +142,10 @@
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;p&gt;Waiting for editing&amp;hellip;&lt;/p&gt;
 &lt;p&gt;But you can leave your footprint here via the comments below!&lt;/p&gt;
 </description>
@@ -124,10 +160,10 @@
         </item>
         <item>
         <title>友链</title>
-        <link>http://localhost:1313/%E5%8F%8B%E9%93%BE/</link>
+        <link>http://localhost:1313/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%8F%8B%E9%93%BE/</guid>
+        <guid>http://localhost:1313/links/</guid>
         <description></description>
         </item>
         
